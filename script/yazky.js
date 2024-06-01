@@ -1,7 +1,7 @@
 const axios = require("axios");
 
 module.exports.config = {
- name: "popcat",
+ name: "Gerald",
  version: ".",
  role: 0,
  aliases: ["pop"],
